@@ -9,7 +9,11 @@ A Python package for analyzing and visualizing molecular structure. For MSF boot
 
 This repository is currently under development. To do a developmental install, download this repository and type 
 `pip install -e .`
-in the repository directory.
+in the repository directory
+
+This package requires the following:
+- numpy 
+- matplotlib
 
 ### Copyright
 
