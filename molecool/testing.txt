@@ -1,2 +1,11 @@
+********************************
+THIS IS THE START OF TESTING.TXT
+********************************
+
 Adding text file
 Now I added a new line
+
+********************************
+THIS IS THE END OF TESTING.TXT
+********************************
+
